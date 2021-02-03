@@ -1,11 +1,11 @@
 # Distributed-File-System-Implementation
 
-##Components
+## Components
 *	Distributed System Node: These represent the “clients” in DFS architecture. They allow users to interact with files stored on File Servers and execute various commands.
 *	File Server: These store files in the file system. They allow Distributed System Nodes to interact with the files using Remote Procedure Calls only with proper authentication.
 *	Key Distribution Centre: The KDC shares symmetric keys with the nodes in the system. The file servers register with the KDC for the files that are stored. The KDC grants the distributed system nodes session keys for mutual authentication.
 
-##Working of System
+## Working of System
 *	All the file servers FSi and the distributed nodes DSi must be assigned unique ids and share symmetric keys with a Key Distribution Server (KDC). 
 *	All the File servers register with the KDC for the files that they store. 
 *	The Distributed nodes authenticate with the KDC to generate session key using the symmetric key mutual authentication protocol. 
