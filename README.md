@@ -1,5 +1,5 @@
 # Distributed-File-System-Implementation
-![DFS](Schematic diagram of DFS.png)
+![DFS](https://github.com/ShreyaVerma7/Distributed-File-System-Implementation/blob/main/Schematic%20diagram%20of%20DFS.png)
 
 ## Components
 *	Distributed System Node: These represent the “clients” in DFS architecture. They allow users to interact with files stored on File Servers and execute various commands.
