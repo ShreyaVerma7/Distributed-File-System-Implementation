@@ -18,7 +18,7 @@
 * File Server registration and set-up.
 *	Distributed Node registration and authentication with servers.
 *	Commands that are listed below:
-  *	**pwd** – list the present working directory
-  * **ls** – list contents of the file
-  * **cp** – copy one file to another in the same folder
-  * **cat** – display contents of the file
+    *	**pwd** – list the present working directory
+    * **ls** – list contents of the file
+    * **cp** – copy one file to another in the same folder
+    * **cat** – display contents of the file
